@@ -259,5 +259,14 @@
     "title": "Good Omens",
     "author": "Terry Pratchett and Neil Gaiman",
     "sfw": "yes"
+  },
+  {
+    "time": "04:00",
+    "quote_first": "When Moss gets in at ",
+    "quote_time_case": "four in the morning",
+    "quote_last": ", whisper: 'There are lots of people in this world, Moss, but you can’t be in love with them all.' 'I’m not,” he says, “in love with the mall.""
+    "title": "Self-Help",
+    "author": "Lorrie Moore",
+    "sfw": "yes"
   }
 ]
